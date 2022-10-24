@@ -1,6 +1,6 @@
 {
   "name": "gps-tracking",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Let you work with some GPS trackers that connects through tcp.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freshworkstudio/gps-tracking-nodejs.git"
+    "url": "https://github.com/jleal52/gps-tracking.git"
   },
   "keywords": [
     "gps",
@@ -20,9 +20,9 @@
   "author": "Gonzalo De-Spirito (http://www.freshworkstudio.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freshworkstudio/gps-tracking-nodejs/issues"
+    "url": "https://github.com/jleal52/gps-tracking.git/issues"
   },
-  "homepage": "https://github.com/freshworkstudio/gps-tracking-nodejs",
+  "homepage": "https://github.com/jleal52/gps-tracking.git",
   "dependencies": {
     "crc": "^3.5.0",
     "crc16-ccitt-node": "^1.0.6",
